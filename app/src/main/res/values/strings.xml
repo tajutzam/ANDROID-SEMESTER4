@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidWriteFile</string>
+    <string name="ambil_foto">Ambil foto</string>
+    <string name="simpan_file">Simpan file</string>
+</resources>
